@@ -1,2 +1,2 @@
 # ComfyUI-basic-pitch
-audio to midi functionality within ComfyUI
+Audio to midi functionality within ComfyUI
