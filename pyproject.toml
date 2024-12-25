@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-basic-pitch"
+description = "Audio to midi functionality within ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["basic-pitch", "midiutil"]
+
+[project.urls]
+Repository = "https://github.com/DoctorDiffusion/ComfyUI-basic-pitch"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-basic-pitch"
+Icon = ""
